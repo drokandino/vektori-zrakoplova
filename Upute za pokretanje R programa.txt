@@ -1,0 +1,15 @@
+1. Potrebno je instalirati sljedeće library-e: shiny, httr, jsonlite, shinyFiles
+2. Pokrenuti R program naziva Tema 7 ADS-B.r unutar R studio okruženja
+3. Unjeti programske parametre kroz GUI:
+	- Polazna zračna luka (kod zračne luke)
+	- Datum početka
+	- Sat početka
+	- Datum kraja
+	- Sat kraja
+	- Apsolutnu putanju do postojećeg direktorija
+	- Naziv izlazne .csv datoteke
+4. Sitsnuti Download Observations
+5. Pričekati da se podaci preuzmu i obrade
+6. Podaci su dostupni u csv datoteci
+
+Dodatno je priložena video snimka pokretanja programa.
